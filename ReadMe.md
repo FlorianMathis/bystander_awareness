@@ -1,6 +1,6 @@
 # BANS: Evaluation of Bystander Awareness Notification Systems for Productivity in Virtual Reality
 
-![We explore the use of BANS to support VR users' privacy in public spaces.](/Figures/FinalTeaser.png?raw=true "We explore the use of BANS to support VR users' privacy in public spaces.")
+![We explore the use of BANS to support VR users' privacy in public spaces.](/Figures/FinalTeaser1.png?raw=true "We explore the use of BANS to support VR users' privacy in public spaces.")
 
 **Figure 1: We explore the use of BANS to support VR users' privacy in public spaces. We compare the usability of different BANS, i.e., from least to most displayed information, and their impact on VR users' productivity and sense of presence. Figures (a) to (f) illustrate the BANS, described in more detail in the paper.**
 
