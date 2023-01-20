@@ -6,7 +6,7 @@
 
 ABSTRACT VR Head-Mounted Displays (HMDs) provide unlimited and personalized virtual workspaces and will enable working anytime and anywhere. However, if HMDs are to become ubiquitous, VR users are at risk of being observed, which can threaten their privacy. We examine six <ins>B</ins>ystander <ins>A</ins>wareness <ins>N</ins>otification <ins>S</ins>ystems (BANS) to enhance VR users' bystander awareness whilst immersed in VR. In a user study (N=28), we explore how future HMDs equipped with BANS might enable users to maintain their privacy while contributing towards enjoyable and productive travels. Results indicate that BANS increase VR users' bystander awareness without affecting presence and productivity.Users prefer BANS that extract and present the most details of reality to facilitate their bystander awareness.We conclude by synthesizing four recommendations, such as providing VR users with control over BANS and considering how VR users can best transition between realities, to inform the design of privacy-preserving HMDs. 
 
-Links: [Paper (probably not available yet)](https://doi.org/10.1145/3491102.3501821)
+Links: [Paper (probably not available yet)]()
 
 
 ## Table of Contents
@@ -55,7 +55,7 @@ The BANS were designed to allow for intentionally dismissing them by continuing 
 
 
 ## Third-Party Content
-To implement the Bans and the virtual environments, we used different software and assets provided by third parties. Unfortunately, not all third-party content is freely available and thus, cannot be offered with the source files. Nevertheless, the basic functionality of the Bans is not limited by some missing software and assets. Moreover, we provide an APK of the complete environment including the paid content and made it easy to add the content back into the Unity project after buying it.
+To implement the BANS and the virtual environments, we used different software and assets provided by third parties. Unfortunately, not all third-party content is freely available and thus, cannot be offered with the source files. Nevertheless, the basic functionality of the BANS is not limited by some missing software and assets. Moreover, we provide an APK of the complete environment including the paid content and made it easy to add the content back into the Unity project after buying it.
   
 ### Third-Party Content (freely available) - Included in This Repository
   
@@ -66,7 +66,7 @@ To implement the Bans and the virtual environments, we used different software a
 * Asset: Modern Furniture Pack (https://skfb.ly/ooFoL)
 * Asset: Radar (https://unitycodemonkey.com/downloadpage.php?yid=J0gmrgpx6gk)
 
-### Third-Party Content (paid) - NOT Included in This Repository
+### Third-Party Content (paid) - <ins>NOT</ins> Included in This Repository
 * Asset: Train Interior VR (https://assetstore.unity.com/packages/3d/vehicles/train-interior-vr-144344)
 * Asset: Summer Beach Cartoon Pack - VR/Mobile (https://assetstore.unity.com/packages/3d/environments/summer-beach-cartoon-pack-vr-mobile-17444)
 * Asset: 3D Office Furniture (https://assetstore.unity.com/packages/3d/props/interior/3d-office-furniture-34262)
