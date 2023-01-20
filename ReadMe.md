@@ -55,7 +55,7 @@ The BANS were designed to allow for intentionally dismissing them by continuing 
 
 
 ## Third-Party Content
-To implement the Bans and the virtual environments, we used different software and assets provided by third parties. Unfortunately, not all third-party content is freely available and thus, cannot be offered with the source files. Nevertheless, the basic functionality of the Bans is not limited by some missing software and assets. Moreover, we provide an APK of the complete environment including the paid content and made it easy to add the content back into the Unity project after buying it.
+To implement the BANS and the virtual environments, we used different software and assets provided by third parties. Unfortunately, not all third-party content is freely available and thus, cannot be offered with the source files. Nevertheless, the basic functionality of the BANS is not limited by some missing software and assets. Moreover, we provide an APK of the complete environment including the paid content and made it easy to add the content back into the Unity project after buying it.
   
 ### Third-Party Content (freely available) - Included in This Repository
   
