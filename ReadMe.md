@@ -1,8 +1,8 @@
 # BANS: Evaluation of Bystander Awareness Notification Systems for Productivity in Virtual Reality
 
-![We explore the use of BANS to support VR users' privacy in public spaces.](/Figures/FinalTeaser.png?raw=true "We explore the use of BANS to support VR users' privacy in public spaces.")
+![We explore the use of BANS to support VR users' privacy in public spaces.](/Figures/FinalTeaser1.png?raw=true "We explore the use of BANS to support VR users' privacy in public spaces.")
 
-**Figure 1: We explore the use of BANS to support VR users' privacy in public spaces. We compare the usability of different BANS, i.e., from least to most displayed information, and their impact on VR users' productivity and sense of presence. Figures (a) to (f) illustrate the BANS, described in more detail in the paper.**
+*Figure 1: We explore the use of BANS to support VR users' privacy in public spaces. We compare the usability of different BANS, i.e., from least to most displayed information, and their impact on VR users' productivity and sense of presence. Figures (a) to (f) illustrate the BANS, described in more detail in the paper.*
 
 ABSTRACT VR Head-Mounted Displays (HMDs) provide unlimited and personalized virtual workspaces and will enable working anytime and anywhere. However, if HMDs are to become ubiquitous, VR users are at risk of being observed, which can threaten their privacy. We examine six <ins>B</ins>ystander <ins>A</ins>wareness <ins>N</ins>otification <ins>S</ins>ystems (BANS) to enhance VR users' bystander awareness whilst immersed in VR. In a user study (N=28), we explore how future HMDs equipped with BANS might enable users to maintain their privacy while contributing towards enjoyable and productive travels. Results indicate that BANS increase VR users' bystander awareness without affecting presence and productivity.Users prefer BANS that extract and present the most details of reality to facilitate their bystander awareness.We conclude by synthesizing four recommendations, such as providing VR users with control over BANS and considering how VR users can best transition between realities, to inform the design of privacy-preserving HMDs. 
 
@@ -24,7 +24,7 @@ The BANS were designed to allow for intentionally dismissing them by continuing 
 
 ![Snippets of the six BANS:](/Figures/SnippetsHorizontal.png?raw=true "Workflows and Environments of Snippets of the six BANS:")
 
-**Figure 2: Snippets of the six BANS: **A)** Text UI, **B)** Avatar, **C)** 2D-Radar, **D)** Attention Marker, **E)** 3D-Scan, **F)** Passthrough.**
+*Figure 2: Snippets of the six BANS: **A)** Text UI, **B)** Avatar, **C)** 2D-Radar, **D)** Attention Marker, **E)** 3D-Scan, **F)** Passthrough.*
 
 ### Requirements
 * Oculus App on the computer
