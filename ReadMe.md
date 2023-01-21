@@ -70,3 +70,5 @@ We used different software and assets provided by third parties to implement the
 [4] D. Weber, A. Voit, J. Auda, S. Schneegass, and N. Henze, “Snooze! investigating the user-defined deferral of mobile notifications,” in Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services, 2018, pp. 1–13.
   
 [5] R. Rzayev, S. Mayer, C. Krauter, and N. Henze, “Notification in vr: The effect of notification placement, task and environment,” in Proceedings of the Annual Symposium on Computer-Human Interaction in Play, ser. CHI PLAY ’19. New York, NY, USA: Association for Computing Machinery, 2019, p. 199–211. [Online]. Available: https://doi.org/10.1145/3311350.3347190
+  
+[6] Gruenefeld, U., Auda, J., Mathis, F., Schneegass, S., Khamis, M., Gugenheimer, J., & Mayer, S. (2022, April). VRception: Rapid Prototyping of Cross-Reality Systems in Virtual Reality. In CHI Conference on Human Factors in Computing Systems, https://doi.org/10.1145/3491102.3501821
