@@ -6,8 +6,7 @@
 
 ABSTRACT VR Head-Mounted Displays (HMDs) provide unlimited and personalized virtual workspaces and will enable working anytime and anywhere. However, if HMDs are to become ubiquitous, VR users are at risk of being observed, which can threaten their privacy. We examine six <ins>B</ins>ystander <ins>A</ins>wareness <ins>N</ins>otification <ins>S</ins>ystems (BANS) to enhance VR users' bystander awareness whilst immersed in VR. In a user study (N=28), we explore how future HMDs equipped with BANS might enable users to maintain their privacy while contributing towards enjoyable and productive travels. Results indicate that BANS increase VR users' bystander awareness without affecting presence and productivity.Users prefer BANS that extract and present the most details of reality to facilitate their bystander awareness.We conclude by synthesizing four recommendations, such as providing VR users with control over BANS and considering how VR users can best transition between realities, to inform the design of privacy-preserving HMDs. 
 
-Links: [Paper (probably not available yet)]()
-
+Link:  [USEC 2023 Paper, Available in February 2023](https://dx.doi.org/10.14722/usec.2023.234566)
 
 ## Table of Contents
 1. [Overview of the BANS](#overview-of-the-bans)
@@ -17,7 +16,6 @@ Links: [Paper (probably not available yet)]()
 
 ## Overview of the BANS
 We implemented seven BANS (including a baseline) in VR, all of which provide different levels of reality awareness and are situated at different levels on the bystander awareness continuum. Figure 1 provides an overview of all studied BANS and Figure 2 shows the same BANS in a virtual workspace environment. Auditory feedback (i.e., a *beep tone*) was included in all BANS as a modality to direct users' attention to the visual notifications, as suggested by [[1]](#references). All BANS were triggered automatically after a five second VR experience, similar to previous works [[2,3]](#references). Each notification stayed visible for up to ten seconds before disappearing automatically. 
-
 
 The BANS were designed to allow for intentionally dismissing them by continuing with the VR productivity task (i.e., typing on the physical keyboard). Introducing an intentional dismissal feature for all BANS provides VR users with full control of the BANS and is a common approach when designing and implementing notification systems [[4]](#references) and has previously been identified as future work when designing notification systems for VR [[5]](#references). A buffer of three seconds (determined through pilot tests) was used to lock manually dismissing the notification and to allow VR users to perceive the notification and not accidentally dismiss it. The following six BANS were implemented to evaluate their usability and impact on the VR users' productivity and perceived sense of presence. 
 
@@ -37,27 +35,27 @@ The BANS were designed to allow for intentionally dismissing them by continuing 
 3. Connect to your device and go to 'More Settings'
 4. Enable the 'Developer Mode'
 
-### How to Install an APK via ADB
-1. Download and install ADB (Android Debug Bridge), for more info and instruction: https://developer.android.com/studio/releases/platform-tools and https://developer.android.com/studio/command-line/adb
+### How to Install an APK ... 
+
+## ... Option 1: via ADB 
+1. Download and install the Android Debug Bridge (ADB). For more info and instruction please visit https://developer.android.com/studio/releases/platform-tools and https://developer.android.com/studio/command-line/adb.
 2. Download the APK file from the 'Build' folder
 3. Open the CMD/Terminal and navigate to the <platform-tools> folder
-4. Connect your VR headset with the USB cable and allow permission in Oculus, when asked
+4. Connect the Quest 2 headset with the USB cable and allow permission
 5. Check that the device is connected/listed with the command `adb devices`
 6. Install the .apk file with `adb install <apk-path>`
   
-### How to Install an APK via SideQuest
+## ... Option 2: via SideQuest
 1. Download and install the SideQuest software from the [offical website](https://sidequestvr.com/setup-howto)
 2. Download one of the two APK files from the 'Build' folder
 3. Connect your VR headset with the USB cable and allow permission in Oculus, when asked
 4. Start the SideQuest software and select 'Install APK file from folder on computer' represented as an icon in the top menu bar
 5. Select the APK you want to install and SideQuest should automatically install it
 
-
-
 ## Third-Party Content
-To implement the BANS and the virtual environments, we used different software and assets provided by third parties. Unfortunately, not all third-party content is freely available and thus, cannot be offered with the source files. Nevertheless, the basic functionality of the BANS is not limited by some missing software and assets. Moreover, we provide an APK of the complete environment including the paid content and made it easy to add the content back into the Unity project after buying it.
-  
-### Third-Party Content (freely available) - Included in This Repository
+We used different software and assets provided by third parties to implement the BANS and the virtual environments.
+
+### Third-Party Content (freely available) - Included in this repository
   
 * Software: Oculus XR Plugin (https://docs.unity3d.com/Packages/com.unity.xr.oculus@1.4/manual/index.html)
 * Software: Oculus Unity Integration (https://developer.oculus.com/downloads/package/unity-integration)
@@ -66,13 +64,10 @@ To implement the BANS and the virtual environments, we used different software a
 * Asset: Modern Furniture Pack (https://skfb.ly/ooFoL)
 * Asset: Radar (https://unitycodemonkey.com/downloadpage.php?yid=J0gmrgpx6gk)
 
-### Third-Party Content (paid) - <ins>NOT</ins> Included in This Repository
+### Third-Party Content (not freely available) - <ins>NOT</ins> Included in this repository
 * Asset: Train Interior VR (https://assetstore.unity.com/packages/3d/vehicles/train-interior-vr-144344)
 * Asset: Summer Beach Cartoon Pack - VR/Mobile (https://assetstore.unity.com/packages/3d/environments/summer-beach-cartoon-pack-vr-mobile-17444)
 * Asset: 3D Office Furniture (https://assetstore.unity.com/packages/3d/props/interior/3d-office-furniture-34262)
-
-
-
   
 ## References
 [1] S. Ghosh, L. Winston, N. Panchal, P. KimuraThollander, J. Hotnog, D. Cheong, G. Reyes, and G. D. Abowd, “Notifivr: Exploring interruptions and notifications in virtual reality,” IEEE Transactions on Visualization and Computer Graphics, vol. 24, no. 4, p. 1447–1456, apr 2018. [Online]. Available: https://doi.org/10.1109/TVCG.2018.2793698  
