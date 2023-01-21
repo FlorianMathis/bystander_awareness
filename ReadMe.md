@@ -35,22 +35,13 @@ The BANS were designed to allow for intentionally dismissing them by continuing 
 3. Connect to your device and go to 'More Settings'
 4. Enable the 'Developer Mode'
 
-### How to Install an APK ... 
-
-## ... Option 1: via ADB 
+### How to Install an APK (example via ADB)
 1. Download and install the Android Debug Bridge (ADB). For more info and instruction please visit https://developer.android.com/studio/releases/platform-tools and https://developer.android.com/studio/command-line/adb.
 2. Download the APK file from the 'Build' folder
 3. Open the CMD/Terminal and navigate to the <platform-tools> folder
 4. Connect the Quest 2 headset with the USB cable and allow permission
 5. Check that the device is connected/listed with the command `adb devices`
 6. Install the .apk file with `adb install <apk-path>`
-  
-## ... Option 2: via SideQuest
-1. Download and install the SideQuest software from the [offical website](https://sidequestvr.com/setup-howto)
-2. Download one of the two APK files from the 'Build' folder
-3. Connect your VR headset with the USB cable and allow permission in Oculus, when asked
-4. Start the SideQuest software and select 'Install APK file from folder on computer' represented as an icon in the top menu bar
-5. Select the APK you want to install and SideQuest should automatically install it
 
 ## Third-Party Content
 We used different software and assets provided by third parties to implement the BANS and the virtual environments.
